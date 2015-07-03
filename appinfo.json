@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "count": 0,
+        "index": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mikebikemusic",
+    "longName": "Send Fast",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Send Fast",
+    "uuid": "70e406e9-d1ca-4e4e-a483-110d5db769d6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
